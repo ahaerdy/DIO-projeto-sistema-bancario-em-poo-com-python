@@ -81,7 +81,7 @@ python modelo_parte_2.py
 
 3. Interaja com o sistema via terminal.
 
-✅ Regras de Negócio
+## ✅ Regras de Negócio
 
 - Cada cliente possui CPF único
 - Cliente pode ter mais de uma conta
@@ -89,7 +89,7 @@ python modelo_parte_2.py
 - Máximo de 3 saques por dia
 - Todas as operações registradas no histórico da conta
 
-📌 Aprendizados
+## 📌 Aprendizados
 
 - Aplicação prática de herança e polimorfismo
 - Uso de classes abstratas com @abstractmethod
@@ -97,7 +97,7 @@ python modelo_parte_2.py
 - Estruturação de um sistema completo com POO em Python
 - Clareza na separação de responsabilidades entre entidades
 
-📷 Anotações e Capturas
+## 📷 Anotações e Capturas
 
 - Imagens utilizadas nos vídeos de referência e anotações do desafio estão disponíveis em images/
 - Os códigos de referência utilizados em aula estão documentados no arquivo README-1.md
