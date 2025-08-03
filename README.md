@@ -40,4 +40,64 @@ Refatorar o sistema bancário inicial, substituindo estruturas baseadas em dicio
 - `Conta` (classe base com métodos `sacar`, `depositar`)
 - `ContaCorrente` (herda de Conta, com limites)
 - `Transacao` (classe abstrata)
-- `Saque` e `Deposito` (
+- `Saque` e `Deposito` (herdam de Transacao)
+- `Historico` (registra as transações)
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+
+- Python 3.10+
+- Programação Orientada a Objetos (POO)
+- Classes Abstratas (`abc`)
+- Encapsulamento e Herança
+- Manipulação de listas e entrada de dados via `input`
+- `textwrap` para menu interativo
+
+---
+
+## 📁 Arquivos
+
+- `modelo_parte_1.py`: Código com a modelagem das classes (Parte 1 do desafio)
+- `modelo_parte_2.py`: Código com menu funcional e integração completa (Parte 2 do desafio)
+- `README.md`: Este arquivo explicativo
+
+---
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python.git
+cd DIO-projeto-sistema-bancario-em-poo-com-python
+```
+
+2. Execute o script da parte 2 (completo):
+
+```bash
+python modelo_parte_2.py
+```
+
+3. Interaja com o sistema via terminal.
+
+✅ Regras de Negócio
+
+- Cada cliente possui CPF único
+- Cliente pode ter mais de uma conta
+- Conta com limite de R$500 por saque
+- Máximo de 3 saques por dia
+- Todas as operações registradas no histórico da conta
+
+📌 Aprendizados
+
+- Aplicação prática de herança e polimorfismo
+- Uso de classes abstratas com @abstractmethod
+- Encapsulamento de lógica de negócios
+- Estruturação de um sistema completo com POO em Python
+- Clareza na separação de responsabilidades entre entidades
+
+📷 Anotações e Capturas
+
+- Imagens utilizadas nos vídeos de referência e anotações do desafio estão disponíveis em images/
+- Os códigos de referência utilizados em aula estão documentados no arquivo README-1.md
