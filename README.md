@@ -5,9 +5,8 @@ Projeto em Python que implementa um sistema bancário utilizando **Programação
 ## 📚 Curso
 
 - Curso: "Modelando o Sistema Bancário em POO com Python"
-- **Instrutor**: Guilherme Arthur de Carvalho (Analista de Sistemas)  
+- **Instrutor**: Guilherme Arthur de Carvalho (Analista de Sistemas)   
   - [LinkedIn](https://www.linkedin.com/in/decarvalhogui/)
-
 - Repositório de estudos geral: [Bootcamp Suzano Python Developer](https://github.com/ahaerdy/DIO-learning/tree/main/Suzano%20-%20Python%20Developer)
 
 ---
@@ -96,8 +95,3 @@ python modelo_parte_2.py
 - Encapsulamento de lógica de negócios
 - Estruturação de um sistema completo com POO em Python
 - Clareza na separação de responsabilidades entre entidades
-
-## 📷 Anotações e Capturas
-
-- Imagens utilizadas nos vídeos de referência e anotações do desafio estão disponíveis em images/
-- Os códigos de referência utilizados em aula estão documentados no arquivo README-1.md
