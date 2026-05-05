@@ -487,7 +487,7 @@ python desafio_parte_2.py
 
 ---
 
-## 🎓 Conceitos POO Aplicados
+## Conceitos POO Aplicados
 
 | Conceito | Onde é aplicado |
 |----------|-----------------|
