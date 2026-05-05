@@ -513,7 +513,7 @@ python desafio_parte_2.py
 
 ---
 
-## 📜 Certificado
+## Certificado
 
 Certificado de conclusão disponível em: [https://hermes.dio.me/certificates/EXCY5DYB.pdf](https://hermes.dio.me/certificates/EXCY5DYB.pdf)
 
@@ -522,3 +522,4 @@ Certificado de conclusão disponível em: [https://hermes.dio.me/certificates/EX
 Referências: 
 
 - [Repositório de Estudos - Bootcamp Suzano Python Developer](https://github.com/ahaerdy/DIO-learning/tree/main/Suzano%20-%20Python%20Developer)
+- [Repositório de Estudos – Bootcamp NTT DATA - Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
