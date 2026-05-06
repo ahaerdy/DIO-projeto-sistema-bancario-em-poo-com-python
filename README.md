@@ -17,7 +17,7 @@ Esta é a **terceira versão** do Sistema Bancário. As versões anteriores fora
 
 ## Objetivo
 
-Refatorar o sistema bancário anterior, substituindo variáveis soltas e dicionários por uma **modelagem completa com classes e objetos**. O desafio é dividido em duas partes:
+Refatorar o sistema bancário [anterior](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python), substituindo variáveis soltas e dicionários por uma **modelagem completa com classes e objetos**. O desafio é dividido em duas partes:
 
 - **Parte 1** (`desafio-parte_1.py`): Modelagem das classes do domínio do sistema — clientes, contas, transações e histórico.
 - **Parte 2** (`desafio_parte_2.py`): Integração das classes ao menu interativo, conectando a interface com o usuário à lógica encapsulada nos objetos.
